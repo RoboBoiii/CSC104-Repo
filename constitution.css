@@ -1,0 +1,38 @@
+
+body{
+	/* Background change */
+	background: radial-gradient(#95A3B3, #4C2C69, #42253B);
+}
+
+h1{
+	/* effects the large title */
+	color: #000000;
+	text-shadow:0 0 4px #82D173;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+	/* effects the article title */
+	color: #ffffff;
+	text-shadow:0 0 5px #82D173;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+	/* effects the section title */
+	color: #23ff01;
+	text-shadow:0 0 4px #82D173;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+	/* effects the paragraph sections */
+	padding: 10px;
+	color: #ABFAA9;
+	text-shadow:0 0 4px #82D173;
+	font-family: times new roman, arial;
+}
+/* for URL links to be embedded into the site */
+a:visited{
+	color: rgb(238, 255, 0);
+}
