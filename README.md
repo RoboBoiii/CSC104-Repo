@@ -1,1 +1,2 @@
-Assignment 8.1: Experiment with the different properties that affect text display, and various text formats to create effective and interesting page design. You can use for reference the constitution.html and style.css posted, which is just a plain black and white text version using some very basic CSS. HTML filename: constitution.html / CSS filename: constituton.css
+Assignment 8.1: HTML filename: constitution.html / CSS filename: constituton.css
+Assignment 13.1: Final Project Progress Point HTML filename: homepage.html / CSS filename homepage.css
